@@ -1,4 +1,4 @@
-# Functies voor de bewerkingen
+# Functies voor de bewerking
 def optellen(x, y):
     return x + y
 
